@@ -7,7 +7,9 @@ import java.util.Random;
 import javax.swing.JButton;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
-
+/*
+ * 
+ */
 
 public class TextViewController implements ActionListener,MouseListener{
 	
